@@ -12,10 +12,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Samarth2001&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
