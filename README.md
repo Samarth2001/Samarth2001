@@ -9,9 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Samarth2001&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samarth2001&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
