@@ -1,8 +1,4 @@
 ## HELLO, I'm Samarth👋
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samarth2001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-s-rayar)  
-
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samarth2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -11,9 +7,6 @@
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 😂 Random Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Samarth2001&icon=0&color=1)](https://visitcount.itsvg.in)
